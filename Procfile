@@ -1,1 +1,1 @@
-web: gunicorn 'djjobboardproj.wsgi' 
+web: gunicorn 'dj jobboardproj.wsgi' 
