@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
     "django.contrib.humanize",
     'whitenoise.runserver_nostatic',
+    "whitenoise",
 
     # local apps
     'job_board',
