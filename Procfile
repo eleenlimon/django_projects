@@ -1,1 +1,1 @@
-web: gunicorn 'dj\jobboardproj.wsgi' --log-file -
+web: gunicorn 'djjobboardproj.wsgi' --log-file -
